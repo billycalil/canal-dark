@@ -1,0 +1,17 @@
+{
+  "titulo_video": "Orar era proibido. Daniel abriu a janela e orou mesmo assim 🦁 #shorts",
+  "descricao": "Daniel continuou orando a Deus mesmo sob ameaça de morte, e foi lançado na cova dos leões. A história está em Daniel 6, na Bíblia.\n\nO que te ajuda a continuar orando nos dias difíceis? Comente! 👇\n\n#Biblia #HistoriasDaBiblia #HistoriasDeFe #FeCrista #Shorts",
+  "tags": ["Bíblia", "Daniel na cova dos leões", "Daniel 6", "histórias da Bíblia", "fé cristã"],
+  "referencia": "Daniel 6",
+  "segmentos": [
+    {"texto": "Uma lei proibia orar a Deus. Daniel abriu a janela e orou.", "cena": "oracao", "gancho": true},
+    {"texto": "O rei Dario colocou Daniel acima de todos os governantes do reino.", "cena": "cidade"},
+    {"texto": "Com inveja, os outros não acharam falha nele, só a sua fé em Deus.", "cena": "multidao"},
+    {"texto": "Convenceram o rei a proibir, por trinta dias, pedidos a qualquer deus ou homem.", "cena": "cidade"},
+    {"texto": "Daniel seguiu orando três vezes ao dia, com as janelas voltadas para Jerusalém.", "cena": "oracao"},
+    {"texto": "Foi lançado na cova dos leões. O rei passou a noite sem comer nem dormir.", "cena": "noite"},
+    {"texto": "De madrugada, Daniel respondeu: Deus enviou seu anjo e fechou a boca dos leões.", "cena": "luz"},
+    {"texto": "Saiu sem nenhum ferimento, porque havia confiado no seu Deus.", "cena": "aurora"}
+  ],
+  "aplicacao": "Quem não deixa de orar nunca está sozinho na cova."
+}
