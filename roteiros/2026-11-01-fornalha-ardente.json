@@ -1,0 +1,17 @@
+{
+  "titulo_video": "Jogaram três homens no fogo. O rei viu quatro andando 🔥 #shorts",
+  "descricao": "Sadraque, Mesaque e Abede-Nego se recusaram a adorar a estátua de ouro do rei Nabucodonosor e foram lançados na fornalha ardente. A história está em Daniel 3, na Bíblia.\n\nO que te dá coragem para permanecer firme? Comente! 👇\n\n#Biblia #HistoriasDaBiblia #HistoriasDeFe #FeCrista #Shorts",
+  "tags": ["Bíblia", "fornalha ardente", "Sadraque Mesaque e Abede-Nego", "Daniel 3", "histórias da Bíblia"],
+  "referencia": "Daniel 3",
+  "segmentos": [
+    {"texto": "Três homens foram jogados no fogo. Mas o rei viu quatro andando lá dentro.", "cena": "fogo", "gancho": true},
+    {"texto": "O rei Nabucodonosor ergueu uma enorme estátua de ouro e ordenou que todos a adorassem.", "cena": "multidao"},
+    {"texto": "Sadraque, Mesaque e Abede-Nego não se curvaram. Só adoravam ao Deus de Israel.", "cena": "cidade"},
+    {"texto": "Disseram ao rei: nosso Deus pode nos livrar. Se não, mesmo assim não nos curvaremos.", "cena": "oracao"},
+    {"texto": "Furioso, o rei mandou aquecer a fornalha sete vezes mais e lançá-los amarrados.", "cena": "fogo"},
+    {"texto": "Espantado, o rei viu quatro homens soltos, andando no meio do fogo, sem dano algum.", "cena": "fogo"},
+    {"texto": "Saíram sem um fio de cabelo queimado, e nem cheiro de fogo havia neles.", "cena": "luz"},
+    {"texto": "E o próprio rei louvou o Deus que livrou os servos que confiaram nele.", "cena": "aurora"}
+  ],
+  "aplicacao": "Quem permanece fiel nunca atravessa o fogo sozinho."
+}
