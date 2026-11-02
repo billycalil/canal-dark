@@ -1,0 +1,17 @@
+{
+  "titulo_video": "Um mar na frente, um exército atrás. Então o mar se abriu 🌊 #shorts",
+  "descricao": "Encurralados entre o mar e os carros do Faraó, os israelitas viram o Senhor abrir um caminho seco no meio das águas. A história está em Êxodo 14, na Bíblia.\n\nQual mar Deus já abriu na sua vida? Comente! 👇\n\n#Biblia #HistoriasDaBiblia #HistoriasDeFe #FeCrista #Shorts",
+  "tags": ["Bíblia", "Mar Vermelho", "Moisés", "Êxodo 14", "histórias da Bíblia"],
+  "referencia": "Êxodo 14",
+  "segmentos": [
+    {"texto": "Um mar na frente, um exército atrás. Não havia saída. Até o mar se abrir.", "cena": "mar", "gancho": true},
+    {"texto": "Depois de libertar Israel, Faraó mudou de ideia e saiu atrás deles com seus carros.", "cena": "exercito"},
+    {"texto": "Acampado junto ao mar, o povo viu os egípcios chegando e se encheu de medo.", "cena": "multidao"},
+    {"texto": "Moisés respondeu: não temam, fiquem firmes e vejam o livramento do Senhor.", "cena": "oracao"},
+    {"texto": "A coluna de nuvem se pôs entre os dois lados: trevas para uns, luz para Israel.", "cena": "noite"},
+    {"texto": "Moisés estendeu a mão, e um forte vento oriental soprou a noite inteira.", "cena": "mar"},
+    {"texto": "As águas se dividiram como muros, e Israel atravessou o mar em terra seca.", "cena": "luz"},
+    {"texto": "Ao amanhecer, o mar voltou sobre os perseguidores, e o povo creu no Senhor.", "cena": "aurora"}
+  ],
+  "aplicacao": "Quando não houver saída, fique firme: o Senhor abre caminhos."
+}
