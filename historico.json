@@ -1,16 +1,111 @@
 [
-  {"data": "2026-10-28", "referencia": "1 Néfi 16", "tema": "Néfi e o arco quebrado", "video": null, "obs": "publicado manualmente"},
-  {"data": "2026-10-28", "referencia": "Alma 53 e 56", "tema": "Os 2.000 jovens guerreiros", "video": "videos/2026-10-28-jovens-guerreiros.mp4"},
-  {"data": "2026-10-29", "referencia": "Éter 3", "tema": "O irmão de Jarede e as pedras iluminadas", "video": "videos/2026-10-29-irmao-de-jarede.mp4"},
-  {"data": "2026-10-29", "referencia": "Mosias 11–17", "tema": "Abinádi diante do rei Noé", "video": "videos/2026-10-29-abinadi.mp4"},
-  {"data": "2026-10-30", "livro": "Livro de Mórmon", "referencia": "Helamã 13–16", "tema": "Samuel, o lamanita, sobre a muralha", "video": "videos/2026-10-30-samuel-lamanita.mp4"},
-  {"data": "2026-10-30", "livro": "Bíblia", "referencia": "1 Samuel 17", "tema": "Davi e Golias", "video": "videos/2026-10-30-davi-e-golias.mp4"},
-  {"data": "2026-10-31", "livro": "Livro de Mórmon", "referencia": "3 Néfi 11", "tema": "A visita de Cristo às Américas", "video": "videos/2026-10-31-cristo-nas-americas.mp4"},
-  {"data": "2026-10-31", "livro": "Bíblia", "referencia": "Daniel 6", "tema": "Daniel na cova dos leões", "video": "videos/2026-10-31-daniel-cova-dos-leoes.mp4"},
-  {"data": "2026-11-01", "livro": "Livro de Mórmon", "referencia": "Mosias 27", "tema": "A conversão de Alma, o filho", "video": "videos/2026-11-01-conversao-de-alma.mp4"},
-  {"data": "2026-11-01", "livro": "Bíblia", "referencia": "Daniel 3", "tema": "Sadraque, Mesaque e Abede-Nego na fornalha", "video": "videos/2026-11-01-fornalha-ardente.mp4"},
-  {"data": "2026-11-02", "livro": "Livro de Mórmon", "referencia": "1 Néfi 8", "tema": "A árvore da vida", "video": "videos/2026-11-02-arvore-da-vida.mp4"},
-  {"data": "2026-11-02", "livro": "Bíblia", "referencia": "Êxodo 14", "tema": "Moisés e o Mar Vermelho", "video": "videos/2026-11-02-mar-vermelho.mp4"},
-  {"data": "2026-11-03", "livro": "Livro de Mórmon", "referencia": "Alma 17–18", "tema": "Amon defende os rebanhos do rei Lamôni", "video": "videos/2026-11-03-amon-rebanhos.mp4"},
-  {"data": "2026-11-03", "livro": "Bíblia", "referencia": "Mateus 14", "tema": "Pedro anda sobre as águas", "video": "videos/2026-11-03-pedro-sobre-as-aguas.mp4"}
+  {
+    "data": "2026-10-28",
+    "referencia": "1 Néfi 16",
+    "tema": "Néfi e o arco quebrado",
+    "video": null,
+    "obs": "publicado manualmente"
+  },
+  {
+    "data": "2026-10-28",
+    "referencia": "Alma 53 e 56",
+    "tema": "Os 2.000 jovens guerreiros",
+    "video": "videos/2026-10-28-jovens-guerreiros.mp4"
+  },
+  {
+    "data": "2026-10-29",
+    "referencia": "Éter 3",
+    "tema": "O irmão de Jarede e as pedras iluminadas",
+    "video": "videos/2026-10-29-irmao-de-jarede.mp4"
+  },
+  {
+    "data": "2026-10-29",
+    "referencia": "Mosias 11–17",
+    "tema": "Abinádi diante do rei Noé",
+    "video": "videos/2026-10-29-abinadi.mp4"
+  },
+  {
+    "data": "2026-10-30",
+    "livro": "Livro de Mórmon",
+    "referencia": "Helamã 13–16",
+    "tema": "Samuel, o lamanita, sobre a muralha",
+    "video": "videos/2026-10-30-samuel-lamanita.mp4"
+  },
+  {
+    "data": "2026-10-30",
+    "livro": "Bíblia",
+    "referencia": "1 Samuel 17",
+    "tema": "Davi e Golias",
+    "video": "videos/2026-10-30-davi-e-golias.mp4"
+  },
+  {
+    "data": "2026-10-31",
+    "livro": "Livro de Mórmon",
+    "referencia": "3 Néfi 11",
+    "tema": "A visita de Cristo às Américas",
+    "video": "videos/2026-10-31-cristo-nas-americas.mp4"
+  },
+  {
+    "data": "2026-10-31",
+    "livro": "Bíblia",
+    "referencia": "Daniel 6",
+    "tema": "Daniel na cova dos leões",
+    "video": "videos/2026-10-31-daniel-cova-dos-leoes.mp4"
+  },
+  {
+    "data": "2026-11-01",
+    "livro": "Livro de Mórmon",
+    "referencia": "Mosias 27",
+    "tema": "A conversão de Alma, o filho",
+    "video": "videos/2026-11-01-conversao-de-alma.mp4"
+  },
+  {
+    "data": "2026-11-01",
+    "livro": "Bíblia",
+    "referencia": "Daniel 3",
+    "tema": "Sadraque, Mesaque e Abede-Nego na fornalha",
+    "video": "videos/2026-11-01-fornalha-ardente.mp4"
+  },
+  {
+    "data": "2026-11-02",
+    "livro": "Livro de Mórmon",
+    "referencia": "1 Néfi 8",
+    "tema": "A árvore da vida",
+    "video": "videos/2026-11-02-arvore-da-vida.mp4"
+  },
+  {
+    "data": "2026-11-02",
+    "livro": "Bíblia",
+    "referencia": "Êxodo 14",
+    "tema": "Moisés e o Mar Vermelho",
+    "video": "videos/2026-11-02-mar-vermelho.mp4"
+  },
+  {
+    "data": "2026-11-03",
+    "livro": "Livro de Mórmon",
+    "referencia": "Alma 17–18",
+    "tema": "Amon defende os rebanhos do rei Lamôni",
+    "video": "videos/2026-11-03-amon-rebanhos.mp4"
+  },
+  {
+    "data": "2026-11-03",
+    "livro": "Bíblia",
+    "referencia": "Mateus 14",
+    "tema": "Pedro anda sobre as águas",
+    "video": "videos/2026-11-03-pedro-sobre-as-aguas.mp4"
+  },
+  {
+    "data": "2026-11-04",
+    "livro": "Livro de Mórmon",
+    "referencia": "Mosias 2",
+    "tema": "O rei Benjamim e o discurso na torre",
+    "video": "videos/2026-11-04-rei-benjamim.mp4"
+  },
+  {
+    "data": "2026-11-04",
+    "livro": "Bíblia",
+    "referencia": "Lucas 15",
+    "tema": "O filho pródigo",
+    "video": "videos/2026-11-04-filho-prodigo.mp4"
+  }
 ]
