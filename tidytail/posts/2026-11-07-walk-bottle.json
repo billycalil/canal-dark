@@ -1,0 +1,14 @@
+{
+  "produto": "tidytail-2-in-1-walk-bottle-water-treats",
+  "post": {"img": 5, "headline": "Thirsty dog, no bowl? Not anymore.", "sub": "2-in-1 Walk Bottle · water + treats"},
+  "reel": {
+    "slides": [
+      {"img": 7, "text": "Stop packing a bag just for the walk"},
+      {"img": 8, "text": "Water and treats in one bottle"},
+      {"img": 5, "text": "Press to fill, release to stop"},
+      {"img": 6, "text": "Leak-proof, one hand, no mess"},
+      {"img": 8, "text": "Fits cup holders and backpack pockets"}
+    ],
+    "cta": "Tap the link in bio"
+  }
+}
