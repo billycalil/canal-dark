@@ -9,7 +9,8 @@ Formato do JSON de entrada:
   "post": {"img": 1, "headline": "Shedding season? Not on your couch.", "sub": "Steam Brush 3-in-1"},
   "reel": {
     "slides": [{"img": 2, "text": "POV: your dog sheds on EVERYTHING"}, ...],   # 4 a 6 slides
-    "cta": "Tap the link in bio"
+    "cta": "Tap the link in bio",
+    "end_img": 1                                 # opcional: foto do quadro final
   }
 }
 Saídas: mesmo nome com -post.jpg e -reel.mp4 ao lado do JSON.
@@ -136,11 +137,11 @@ def slide_frame(photo_bg, photo, text, t, dur):
     return fr
 
 
-def end_frame(prod, cta):
+def end_frame(prod, cta, img=1):
     W, H = 1080, 1920
     im = Image.new("RGB", (W, H), TEAL)
     d = ImageDraw.Draw(im)
-    ph = contain(load_img(prod["handle"], 1), 760, 760)
+    ph = contain(load_img(prod["handle"], img), 760, 760)
     card = ((W - 820) // 2, 380, (W + 820) // 2, 1200)
     d.rounded_rectangle(card, radius=40, fill=WHITE)
     im.paste(ph, ((W - ph.width) // 2, 380 + (820 - ph.height) // 2))
@@ -174,7 +175,7 @@ def make_reel(spec, prod, out):
         photo = contain(src, 940, 1100)
         for i in range(n):
             pr.stdin.write(slide_frame(bg, photo, s["text"], i / FPS, SLIDE_S).tobytes())
-    ef = end_frame(prod, spec.get("cta", "Tap the link in bio")).tobytes()
+    ef = end_frame(prod, spec.get("cta", "Tap the link in bio"), spec.get("end_img", 1)).tobytes()
     for _ in range(int(END_S * FPS)):
         pr.stdin.write(ef)
     pr.stdin.close()

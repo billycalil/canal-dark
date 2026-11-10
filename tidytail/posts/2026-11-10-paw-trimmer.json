@@ -1,0 +1,19 @@
+{
+  "produto": "tidytail-led-paw-trimmer-quiet-cordless-waterproof",
+  "post": {
+    "img": 8,
+    "headline": "Paw trims at home, no wrestling match",
+    "sub": "LED Paw Trimmer · whisper-quiet motor"
+  },
+  "reel": {
+    "slides": [
+      {"img": 8, "text": "Stop booking the groomer for paw hair"},
+      {"img": 3, "text": "Built-in LED shows every hair between toes"},
+      {"img": 4, "text": "Rounded blade for paws, ears and face"},
+      {"img": 8, "text": "Ultra-quiet, won't spook anxious pups"},
+      {"img": 3, "text": "Cordless, USB rechargeable, rinse the head"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 3
+  }
+}
