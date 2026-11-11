@@ -1,0 +1,19 @@
+{
+  "produto": "tidytail-grooming-kit-trimmer-steam-brush-glove",
+  "post": {
+    "img": 3,
+    "headline": "Groomer-level tidy, right at home",
+    "sub": "Grooming Kit · 3 tools, save over $19"
+  },
+  "reel": {
+    "slides": [
+      {"img": 3, "text": "Your dog will thank you for this kit"},
+      {"img": 4, "text": "Paw trimmer, steam brush and glove in one"},
+      {"img": 3, "text": "Fine mist keeps loose fur off your couch"},
+      {"img": 4, "text": "Quiet LED trimmer for paws, face and ears"},
+      {"img": 3, "text": "Save over $19 vs. buying separately"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 3
+  }
+}
