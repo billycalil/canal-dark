@@ -1,0 +1,15 @@
+{
+  "produto": "tidytail-steam-brush-3-in-1-shedding-fur-refresh",
+  "post": {"img": 6, "headline": "Fresh, tangle-free coat between baths", "sub": "Steam Brush 3-in-1 · gentle, no pulling"},
+  "reel": {
+    "slides": [
+      {"img": 4, "text": "Stop dragging a brush through tangles"},
+      {"img": 6, "text": "Soft, flexible pins that don't pull"},
+      {"img": 1, "text": "A fine mist refreshes the coat between baths"},
+      {"img": 8, "text": "One button pushes the fur right off"},
+      {"img": 6, "text": "Your dog will thank you"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 8
+  }
+}
