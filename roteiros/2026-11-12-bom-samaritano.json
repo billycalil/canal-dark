@@ -1,0 +1,17 @@
+{
+  "titulo_video": "Dois passaram reto. O terceiro parou 🙏 #shorts",
+  "descricao": "Jesus respondeu à pergunta \"quem é o meu próximo?\" com uma história que atravessa os séculos. Está em Lucas 10, na Bíblia.\n\nQuem já foi um bom samaritano na sua vida? Comente! 👇\n\n#Biblia #HistoriasDaBiblia #HistoriasDeFe #FeCrista #Shorts",
+  "tags": ["Bíblia", "Lucas 10", "bom samaritano", "parábola de Jesus", "quem é o meu próximo", "histórias da Bíblia", "fé cristã"],
+  "referencia": "Lucas 10",
+  "segmentos": [
+    {"texto": "Um homem caído na estrada. Dois religiosos passaram… e não pararam.", "cena": "deserto", "gancho": true},
+    {"texto": "Um intérprete da lei perguntou a Jesus: quem é o meu próximo?", "cena": "multidao"},
+    {"texto": "Jesus contou de um homem que descia de Jerusalém para Jericó.", "cena": "cidade"},
+    {"texto": "Assaltantes o feriram e o deixaram quase morto à beira do caminho.", "cena": "noite"},
+    {"texto": "Um sacerdote o viu e passou pelo outro lado. Um levita fez o mesmo.", "cena": "deserto"},
+    {"texto": "Mas um samaritano teve compaixão, tratou suas feridas com azeite e vinho.", "cena": "luz"},
+    {"texto": "Levou-o a uma estalagem, pagou o cuidado e prometeu voltar para cobrir o resto.", "cena": "aurora"},
+    {"texto": "Próximo foi quem usou de misericórdia. E Jesus disse: vai e faze o mesmo.", "cena": "oracao"}
+  ],
+  "aplicacao": "Ser próximo de alguém começa quando escolhemos parar no caminho."
+}
