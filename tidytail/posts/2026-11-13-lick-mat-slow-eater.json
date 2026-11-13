@@ -1,0 +1,15 @@
+{
+  "produto": "tidytail-calming-lick-mat-with-suction-cups",
+  "post": {"img": 3, "headline": "Does your dog inhale dinner in seconds?", "sub": "Calming Lick Mat · slows down fast eaters"},
+  "reel": {
+    "slides": [
+      {"img": 3, "text": "Stop letting your dog gulp dinner"},
+      {"img": 6, "text": "Spread wet food, yogurt or peanut butter"},
+      {"img": 1, "text": "Licking slows down fast eaters"},
+      {"img": 7, "text": "Suction cups stick to floor or tiles"},
+      {"img": 6, "text": "Food-grade silicone, dishwasher safe"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 3
+  }
+}
