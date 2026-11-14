@@ -1,0 +1,15 @@
+{
+  "produto": "tidytail-2-in-1-walk-bottle-water-treats",
+  "post": {"img": 7, "headline": "Road trip ready? So is your dog.", "sub": "2-in-1 Walk Bottle · fits cup holders"},
+  "reel": {
+    "slides": [
+      {"img": 6, "text": "Your dog will thank you on the next hike"},
+      {"img": 8, "text": "Water bowl and treat compartment in one"},
+      {"img": 5, "text": "One-hand button: press to fill"},
+      {"img": 7, "text": "Release to stop. Leak-proof."},
+      {"img": 6, "text": "Fits car cup holders and backpacks"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 7
+  }
+}
