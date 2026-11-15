@@ -1,0 +1,19 @@
+{
+  "produto": "tidytail-comfort-walk-harness-leash-set-small-dogs",
+  "post": {
+    "img": 7,
+    "headline": "The perfect gift for your little walker",
+    "sub": "Comfort Walk Harness & Leash · soft padded set"
+  },
+  "reel": {
+    "slides": [
+      {"img": 6, "text": "Your small dog deserves a gift too"},
+      {"img": 1, "text": "Soft, breathable padded harness"},
+      {"img": 8, "text": "Matching leash included"},
+      {"img": 7, "text": "Gentle, even pressure across the chest"},
+      {"img": 5, "text": "Measure the chest: sizes S, M & L"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 6
+  }
+}
