@@ -1,0 +1,19 @@
+{
+  "produto": "tidytail-led-paw-trimmer-quiet-cordless-waterproof",
+  "post": {
+    "img": 8,
+    "headline": "Is your dog scared of loud clippers?",
+    "sub": "LED Paw Trimmer · ultra-quiet motor"
+  },
+  "reel": {
+    "slides": [
+      {"img": 8, "text": "POV: your pup hides when clippers buzz"},
+      {"img": 3, "text": "Ultra-quiet motor won't spook anxious pups"},
+      {"img": 4, "text": "Rounded blade for paws, ears and face"},
+      {"img": 8, "text": "LED light: see every hair between toes"},
+      {"img": 3, "text": "Tidy paws in minutes, right at home"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 3
+  }
+}
