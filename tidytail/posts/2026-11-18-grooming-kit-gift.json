@@ -1,0 +1,19 @@
+{
+  "produto": "tidytail-grooming-kit-trimmer-steam-brush-glove",
+  "post": {
+    "img": 4,
+    "headline": "The gift every dog parent actually needs",
+    "sub": "Grooming Kit · 3 tools, one box"
+  },
+  "reel": {
+    "slides": [
+      {"img": 3, "text": "POV: you found the perfect dog-parent gift"},
+      {"img": 4, "text": "Trimmer, steam brush and glove in one kit"},
+      {"img": 4, "text": "Quiet LED trimmer for paws, face and ears"},
+      {"img": 3, "text": "Fine mist keeps loose fur off the couch"},
+      {"img": 3, "text": "Save over $19 vs. buying separately"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 4
+  }
+}
