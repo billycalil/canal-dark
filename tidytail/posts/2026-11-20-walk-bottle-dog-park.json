@@ -1,0 +1,15 @@
+{
+  "produto": "tidytail-2-in-1-walk-bottle-water-treats",
+  "post": {"img": 7, "headline": "Thirsty pup halfway through the walk?", "sub": "2-in-1 Walk Bottle · water + treats"},
+  "reel": {
+    "slides": [
+      {"img": 5, "text": "Stop carrying a bottle AND a treat bag"},
+      {"img": 7, "text": "Water bowl and treat compartment in one"},
+      {"img": 6, "text": "Press to fill, release to stop"},
+      {"img": 5, "text": "Leak-proof, one-hand button"},
+      {"img": 8, "text": "Easy to clean, with a carry lanyard"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 7
+  }
+}
