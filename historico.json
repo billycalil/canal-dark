@@ -1,321 +1,335 @@
 [
- {
-  "data": "2026-10-28",
-  "referencia": "1 Néfi 16",
-  "tema": "Néfi e o arco quebrado",
-  "video": null,
-  "obs": "publicado manualmente"
- },
- {
-  "data": "2026-10-28",
-  "referencia": "Alma 53 e 56",
-  "tema": "Os 2.000 jovens guerreiros",
-  "video": "videos/2026-10-28-jovens-guerreiros.mp4"
- },
- {
-  "data": "2026-10-29",
-  "referencia": "Éter 3",
-  "tema": "O irmão de Jarede e as pedras iluminadas",
-  "video": "videos/2026-10-29-irmao-de-jarede.mp4"
- },
- {
-  "data": "2026-10-29",
-  "referencia": "Mosias 11–17",
-  "tema": "Abinádi diante do rei Noé",
-  "video": "videos/2026-10-29-abinadi.mp4"
- },
- {
-  "data": "2026-10-30",
-  "livro": "Livro de Mórmon",
-  "referencia": "Helamã 13–16",
-  "tema": "Samuel, o lamanita, sobre a muralha",
-  "video": "videos/2026-10-30-samuel-lamanita.mp4"
- },
- {
-  "data": "2026-10-30",
-  "livro": "Bíblia",
-  "referencia": "1 Samuel 17",
-  "tema": "Davi e Golias",
-  "video": "videos/2026-10-30-davi-e-golias.mp4"
- },
- {
-  "data": "2026-10-31",
-  "livro": "Livro de Mórmon",
-  "referencia": "3 Néfi 11",
-  "tema": "A visita de Cristo às Américas",
-  "video": "videos/2026-10-31-cristo-nas-americas.mp4"
- },
- {
-  "data": "2026-10-31",
-  "livro": "Bíblia",
-  "referencia": "Daniel 6",
-  "tema": "Daniel na cova dos leões",
-  "video": "videos/2026-10-31-daniel-cova-dos-leoes.mp4"
- },
- {
-  "data": "2026-11-01",
-  "livro": "Livro de Mórmon",
-  "referencia": "Mosias 27",
-  "tema": "A conversão de Alma, o filho",
-  "video": "videos/2026-11-01-conversao-de-alma.mp4"
- },
- {
-  "data": "2026-11-01",
-  "livro": "Bíblia",
-  "referencia": "Daniel 3",
-  "tema": "Sadraque, Mesaque e Abede-Nego na fornalha",
-  "video": "videos/2026-11-01-fornalha-ardente.mp4"
- },
- {
-  "data": "2026-11-02",
-  "livro": "Livro de Mórmon",
-  "referencia": "1 Néfi 8",
-  "tema": "A árvore da vida",
-  "video": "videos/2026-11-02-arvore-da-vida.mp4"
- },
- {
-  "data": "2026-11-02",
-  "livro": "Bíblia",
-  "referencia": "Êxodo 14",
-  "tema": "Moisés e o Mar Vermelho",
-  "video": "videos/2026-11-02-mar-vermelho.mp4"
- },
- {
-  "data": "2026-11-03",
-  "livro": "Livro de Mórmon",
-  "referencia": "Alma 17–18",
-  "tema": "Amon defende os rebanhos do rei Lamôni",
-  "video": "videos/2026-11-03-amon-rebanhos.mp4"
- },
- {
-  "data": "2026-11-03",
-  "livro": "Bíblia",
-  "referencia": "Mateus 14",
-  "tema": "Pedro anda sobre as águas",
-  "video": "videos/2026-11-03-pedro-sobre-as-aguas.mp4"
- },
- {
-  "data": "2026-11-04",
-  "livro": "Livro de Mórmon",
-  "referencia": "Mosias 2",
-  "tema": "O rei Benjamim e o discurso na torre",
-  "video": "videos/2026-11-04-rei-benjamim.mp4"
- },
- {
-  "data": "2026-11-04",
-  "livro": "Bíblia",
-  "referencia": "Lucas 15",
-  "tema": "O filho pródigo",
-  "video": "videos/2026-11-04-filho-prodigo.mp4"
- },
- {
-  "data": "2026-11-05",
-  "livro": "Livro de Mórmon",
-  "referencia": "1 Néfi 3–4",
-  "tema": "Néfi e as placas de latão",
-  "video": "videos/2026-11-05-placas-de-latao.mp4"
- },
- {
-  "data": "2026-11-05",
-  "livro": "Bíblia",
-  "referencia": "Gênesis 45",
-  "tema": "José do Egito perdoa os irmãos",
-  "video": "videos/2026-11-05-jose-perdoa-irmaos.mp4"
- },
- {
-  "data": "2026-11-06",
-  "livro": "Livro de Mórmon",
-  "referencia": "Éter 2 e 6",
-  "tema": "Os barcos dos jareditas atravessando o mar",
-  "video": "videos/2026-11-06-barcos-jareditas.mp4"
- },
- {
-  "data": "2026-11-06",
-  "livro": "Bíblia",
-  "referencia": "Ester 4–5",
-  "tema": "Ester diante do rei",
-  "video": "videos/2026-11-06-ester-diante-do-rei.mp4"
- },
- {
-  "data": "2026-11-07",
-  "livro": "Livro de Mórmon",
-  "referencia": "Alma 46",
-  "tema": "O capitão Morôni e o estandarte da liberdade",
-  "video": "videos/2026-11-07-estandarte-liberdade.mp4"
- },
- {
-  "data": "2026-11-07",
-  "livro": "Bíblia",
-  "referencia": "1 Reis 18",
-  "tema": "Elias e o fogo do céu no monte Carmelo",
-  "video": "videos/2026-11-07-elias-monte-carmelo.mp4"
- },
- {
-  "data": "2026-11-08",
-  "livro": "Livro de Mórmon",
-  "referencia": "Enos 1",
-  "tema": "Enos ora o dia inteiro",
-  "video": "videos/2026-11-08-enos-ora.mp4"
- },
- {
-  "data": "2026-11-08",
-  "livro": "Bíblia",
-  "referencia": "Jonas 1–3",
-  "tema": "Jonas e o grande peixe",
-  "video": "videos/2026-11-08-jonas-grande-peixe.mp4"
- },
- {
-  "data": "2026-11-09",
-  "livro": "Livro de Mórmon",
-  "referencia": "Alma 14",
-  "tema": "Alma e Amuleque na prisão",
-  "video": "videos/2026-11-09-alma-amuleque-prisao.mp4"
- },
- {
-  "data": "2026-11-09",
-  "livro": "Bíblia",
-  "referencia": "Josué 6",
-  "tema": "As muralhas de Jericó",
-  "video": "videos/2026-11-09-muros-de-jerico.mp4"
- },
- {
-  "data": "2026-11-10",
-  "livro": "Livro de Mórmon",
-  "referencia": "3 Néfi 17",
-  "tema": "Cristo abençoa as crianças",
-  "video": "videos/2026-11-10-cristo-abencoa-criancas.mp4"
- },
- {
-  "data": "2026-11-10",
-  "livro": "Bíblia",
-  "referencia": "Juízes 7",
-  "tema": "Gideão e os 300",
-  "video": "videos/2026-11-10-gideao-300.mp4"
- },
- {
-  "data": "2026-11-11",
-  "livro": "Livro de Mórmon",
-  "referencia": "Alma 24",
-  "tema": "O povo de Anti-Néfi-Leí enterra as espadas",
-  "video": "videos/2026-11-11-espadas-enterradas.mp4"
- },
- {
-  "data": "2026-11-11",
-  "livro": "Bíblia",
-  "referencia": "João 11",
-  "tema": "Jesus ressuscita Lázaro",
-  "video": "videos/2026-11-11-lazaro.mp4"
- },
- {
-  "data": "2026-11-12",
-  "livro": "Livro de Mórmon",
-  "referencia": "1 Néfi 17–18",
-  "tema": "Néfi constrói o navio",
-  "video": "videos/2026-11-12-nefi-constroi-navio.mp4"
- },
- {
-  "data": "2026-11-12",
-  "livro": "Bíblia",
-  "referencia": "Lucas 10",
-  "tema": "O bom samaritano",
-  "video": "videos/2026-11-12-bom-samaritano.mp4"
- },
- {
-  "data": "2026-11-13",
-  "livro": "Livro de Mórmon",
-  "referencia": "Mosias 18",
-  "tema": "Alma batiza nas águas de Mórmon",
-  "video": "videos/2026-11-13-aguas-de-mormon.mp4"
- },
- {
-  "data": "2026-11-13",
-  "livro": "Bíblia",
-  "referencia": "Marcos 4",
-  "tema": "Jesus acalma a tempestade",
-  "video": "videos/2026-11-13-jesus-acalma-tempestade.mp4"
- },
- {
-  "data": "2026-11-14",
-  "livro": "Livro de Mórmon",
-  "referencia": "Helamã 5",
-  "tema": "Néfi e Leí na prisão cercados por fogo",
-  "video": "videos/2026-11-14-nefi-lei-prisao.mp4"
- },
- {
-  "data": "2026-11-14",
-  "livro": "Bíblia",
-  "referencia": "Lucas 19",
-  "tema": "Zaqueu sobe na árvore para ver Jesus",
-  "video": "videos/2026-11-14-zaqueu.mp4"
- },
- {
-  "data": "2026-11-15",
-  "livro": "Livro de Mórmon",
-  "referencia": "Alma 22",
-  "tema": "O pai de Lamôni ora para conhecer a Deus",
-  "video": "videos/2026-11-15-rei-lamanita-ora.mp4"
- },
- {
-  "data": "2026-11-15",
-  "livro": "Bíblia",
-  "referencia": "1 Samuel 3",
-  "tema": "O menino Samuel ouve a voz do Senhor",
-  "video": "videos/2026-11-15-samuel-menino.mp4"
- },
- {
-  "data": "2026-11-16",
-  "livro": "Livro de Mórmon",
-  "referencia": "3 Néfi 1",
-  "tema": "O dia sem noite: o sinal do nascimento de Cristo",
-  "video": "videos/2026-11-16-dia-sem-noite.mp4"
- },
- {
-  "data": "2026-11-16",
-  "livro": "Bíblia",
-  "referencia": "Rute 1",
-  "tema": "Rute escolhe ficar com Noemi",
-  "video": "videos/2026-11-16-rute-e-noemi.mp4"
- },
- {
-  "data": "2026-11-17",
-  "livro": "Livro de Mórmon",
-  "referencia": "Mosias 24",
-  "tema": "O Senhor torna leves os fardos do povo de Alma",
-  "video": "videos/2026-11-17-fardos-leves.mp4"
- },
- {
-  "data": "2026-11-17",
-  "livro": "Bíblia",
-  "referencia": "Marcos 10",
-  "tema": "O cego Bartimeu",
-  "video": "videos/2026-11-17-cego-bartimeu.mp4"
- },
- {
-  "data": "2026-11-18",
-  "livro": "Livro de Mórmon",
-  "referencia": "Alma 32",
-  "tema": "Alma ensina os pobres zoramitas sobre a semente da fé",
-  "video": "videos/2026-11-18-semente-da-fe.mp4"
- },
- {
-  "data": "2026-11-18",
-  "livro": "Bíblia",
-  "referencia": "1 Samuel 1",
-  "tema": "A oração de Ana e o nascimento de Samuel",
-  "video": "videos/2026-11-18-ana-ora.mp4"
- },
- {
-  "data": "2026-11-19",
-  "livro": "Livro de Mórmon",
-  "referencia": "Alma 19",
-  "tema": "Abis reúne o povo quando o rei Lamôni, a rainha e Amon caem pelo Espírito",
-  "video": "videos/2026-11-19-abis.mp4"
- },
- {
-  "data": "2026-11-19",
-  "livro": "Bíblia",
-  "referencia": "2 Reis 5",
-  "tema": "Naamã é curado da lepra ao se lavar sete vezes no Jordão",
-  "video": "videos/2026-11-19-naama.mp4"
- }
+  {
+    "data": "2026-10-28",
+    "referencia": "1 Néfi 16",
+    "tema": "Néfi e o arco quebrado",
+    "video": null,
+    "obs": "publicado manualmente"
+  },
+  {
+    "data": "2026-10-28",
+    "referencia": "Alma 53 e 56",
+    "tema": "Os 2.000 jovens guerreiros",
+    "video": "videos/2026-10-28-jovens-guerreiros.mp4"
+  },
+  {
+    "data": "2026-10-29",
+    "referencia": "Éter 3",
+    "tema": "O irmão de Jarede e as pedras iluminadas",
+    "video": "videos/2026-10-29-irmao-de-jarede.mp4"
+  },
+  {
+    "data": "2026-10-29",
+    "referencia": "Mosias 11–17",
+    "tema": "Abinádi diante do rei Noé",
+    "video": "videos/2026-10-29-abinadi.mp4"
+  },
+  {
+    "data": "2026-10-30",
+    "livro": "Livro de Mórmon",
+    "referencia": "Helamã 13–16",
+    "tema": "Samuel, o lamanita, sobre a muralha",
+    "video": "videos/2026-10-30-samuel-lamanita.mp4"
+  },
+  {
+    "data": "2026-10-30",
+    "livro": "Bíblia",
+    "referencia": "1 Samuel 17",
+    "tema": "Davi e Golias",
+    "video": "videos/2026-10-30-davi-e-golias.mp4"
+  },
+  {
+    "data": "2026-10-31",
+    "livro": "Livro de Mórmon",
+    "referencia": "3 Néfi 11",
+    "tema": "A visita de Cristo às Américas",
+    "video": "videos/2026-10-31-cristo-nas-americas.mp4"
+  },
+  {
+    "data": "2026-10-31",
+    "livro": "Bíblia",
+    "referencia": "Daniel 6",
+    "tema": "Daniel na cova dos leões",
+    "video": "videos/2026-10-31-daniel-cova-dos-leoes.mp4"
+  },
+  {
+    "data": "2026-11-01",
+    "livro": "Livro de Mórmon",
+    "referencia": "Mosias 27",
+    "tema": "A conversão de Alma, o filho",
+    "video": "videos/2026-11-01-conversao-de-alma.mp4"
+  },
+  {
+    "data": "2026-11-01",
+    "livro": "Bíblia",
+    "referencia": "Daniel 3",
+    "tema": "Sadraque, Mesaque e Abede-Nego na fornalha",
+    "video": "videos/2026-11-01-fornalha-ardente.mp4"
+  },
+  {
+    "data": "2026-11-02",
+    "livro": "Livro de Mórmon",
+    "referencia": "1 Néfi 8",
+    "tema": "A árvore da vida",
+    "video": "videos/2026-11-02-arvore-da-vida.mp4"
+  },
+  {
+    "data": "2026-11-02",
+    "livro": "Bíblia",
+    "referencia": "Êxodo 14",
+    "tema": "Moisés e o Mar Vermelho",
+    "video": "videos/2026-11-02-mar-vermelho.mp4"
+  },
+  {
+    "data": "2026-11-03",
+    "livro": "Livro de Mórmon",
+    "referencia": "Alma 17–18",
+    "tema": "Amon defende os rebanhos do rei Lamôni",
+    "video": "videos/2026-11-03-amon-rebanhos.mp4"
+  },
+  {
+    "data": "2026-11-03",
+    "livro": "Bíblia",
+    "referencia": "Mateus 14",
+    "tema": "Pedro anda sobre as águas",
+    "video": "videos/2026-11-03-pedro-sobre-as-aguas.mp4"
+  },
+  {
+    "data": "2026-11-04",
+    "livro": "Livro de Mórmon",
+    "referencia": "Mosias 2",
+    "tema": "O rei Benjamim e o discurso na torre",
+    "video": "videos/2026-11-04-rei-benjamim.mp4"
+  },
+  {
+    "data": "2026-11-04",
+    "livro": "Bíblia",
+    "referencia": "Lucas 15",
+    "tema": "O filho pródigo",
+    "video": "videos/2026-11-04-filho-prodigo.mp4"
+  },
+  {
+    "data": "2026-11-05",
+    "livro": "Livro de Mórmon",
+    "referencia": "1 Néfi 3–4",
+    "tema": "Néfi e as placas de latão",
+    "video": "videos/2026-11-05-placas-de-latao.mp4"
+  },
+  {
+    "data": "2026-11-05",
+    "livro": "Bíblia",
+    "referencia": "Gênesis 45",
+    "tema": "José do Egito perdoa os irmãos",
+    "video": "videos/2026-11-05-jose-perdoa-irmaos.mp4"
+  },
+  {
+    "data": "2026-11-06",
+    "livro": "Livro de Mórmon",
+    "referencia": "Éter 2 e 6",
+    "tema": "Os barcos dos jareditas atravessando o mar",
+    "video": "videos/2026-11-06-barcos-jareditas.mp4"
+  },
+  {
+    "data": "2026-11-06",
+    "livro": "Bíblia",
+    "referencia": "Ester 4–5",
+    "tema": "Ester diante do rei",
+    "video": "videos/2026-11-06-ester-diante-do-rei.mp4"
+  },
+  {
+    "data": "2026-11-07",
+    "livro": "Livro de Mórmon",
+    "referencia": "Alma 46",
+    "tema": "O capitão Morôni e o estandarte da liberdade",
+    "video": "videos/2026-11-07-estandarte-liberdade.mp4"
+  },
+  {
+    "data": "2026-11-07",
+    "livro": "Bíblia",
+    "referencia": "1 Reis 18",
+    "tema": "Elias e o fogo do céu no monte Carmelo",
+    "video": "videos/2026-11-07-elias-monte-carmelo.mp4"
+  },
+  {
+    "data": "2026-11-08",
+    "livro": "Livro de Mórmon",
+    "referencia": "Enos 1",
+    "tema": "Enos ora o dia inteiro",
+    "video": "videos/2026-11-08-enos-ora.mp4"
+  },
+  {
+    "data": "2026-11-08",
+    "livro": "Bíblia",
+    "referencia": "Jonas 1–3",
+    "tema": "Jonas e o grande peixe",
+    "video": "videos/2026-11-08-jonas-grande-peixe.mp4"
+  },
+  {
+    "data": "2026-11-09",
+    "livro": "Livro de Mórmon",
+    "referencia": "Alma 14",
+    "tema": "Alma e Amuleque na prisão",
+    "video": "videos/2026-11-09-alma-amuleque-prisao.mp4"
+  },
+  {
+    "data": "2026-11-09",
+    "livro": "Bíblia",
+    "referencia": "Josué 6",
+    "tema": "As muralhas de Jericó",
+    "video": "videos/2026-11-09-muros-de-jerico.mp4"
+  },
+  {
+    "data": "2026-11-10",
+    "livro": "Livro de Mórmon",
+    "referencia": "3 Néfi 17",
+    "tema": "Cristo abençoa as crianças",
+    "video": "videos/2026-11-10-cristo-abencoa-criancas.mp4"
+  },
+  {
+    "data": "2026-11-10",
+    "livro": "Bíblia",
+    "referencia": "Juízes 7",
+    "tema": "Gideão e os 300",
+    "video": "videos/2026-11-10-gideao-300.mp4"
+  },
+  {
+    "data": "2026-11-11",
+    "livro": "Livro de Mórmon",
+    "referencia": "Alma 24",
+    "tema": "O povo de Anti-Néfi-Leí enterra as espadas",
+    "video": "videos/2026-11-11-espadas-enterradas.mp4"
+  },
+  {
+    "data": "2026-11-11",
+    "livro": "Bíblia",
+    "referencia": "João 11",
+    "tema": "Jesus ressuscita Lázaro",
+    "video": "videos/2026-11-11-lazaro.mp4"
+  },
+  {
+    "data": "2026-11-12",
+    "livro": "Livro de Mórmon",
+    "referencia": "1 Néfi 17–18",
+    "tema": "Néfi constrói o navio",
+    "video": "videos/2026-11-12-nefi-constroi-navio.mp4"
+  },
+  {
+    "data": "2026-11-12",
+    "livro": "Bíblia",
+    "referencia": "Lucas 10",
+    "tema": "O bom samaritano",
+    "video": "videos/2026-11-12-bom-samaritano.mp4"
+  },
+  {
+    "data": "2026-11-13",
+    "livro": "Livro de Mórmon",
+    "referencia": "Mosias 18",
+    "tema": "Alma batiza nas águas de Mórmon",
+    "video": "videos/2026-11-13-aguas-de-mormon.mp4"
+  },
+  {
+    "data": "2026-11-13",
+    "livro": "Bíblia",
+    "referencia": "Marcos 4",
+    "tema": "Jesus acalma a tempestade",
+    "video": "videos/2026-11-13-jesus-acalma-tempestade.mp4"
+  },
+  {
+    "data": "2026-11-14",
+    "livro": "Livro de Mórmon",
+    "referencia": "Helamã 5",
+    "tema": "Néfi e Leí na prisão cercados por fogo",
+    "video": "videos/2026-11-14-nefi-lei-prisao.mp4"
+  },
+  {
+    "data": "2026-11-14",
+    "livro": "Bíblia",
+    "referencia": "Lucas 19",
+    "tema": "Zaqueu sobe na árvore para ver Jesus",
+    "video": "videos/2026-11-14-zaqueu.mp4"
+  },
+  {
+    "data": "2026-11-15",
+    "livro": "Livro de Mórmon",
+    "referencia": "Alma 22",
+    "tema": "O pai de Lamôni ora para conhecer a Deus",
+    "video": "videos/2026-11-15-rei-lamanita-ora.mp4"
+  },
+  {
+    "data": "2026-11-15",
+    "livro": "Bíblia",
+    "referencia": "1 Samuel 3",
+    "tema": "O menino Samuel ouve a voz do Senhor",
+    "video": "videos/2026-11-15-samuel-menino.mp4"
+  },
+  {
+    "data": "2026-11-16",
+    "livro": "Livro de Mórmon",
+    "referencia": "3 Néfi 1",
+    "tema": "O dia sem noite: o sinal do nascimento de Cristo",
+    "video": "videos/2026-11-16-dia-sem-noite.mp4"
+  },
+  {
+    "data": "2026-11-16",
+    "livro": "Bíblia",
+    "referencia": "Rute 1",
+    "tema": "Rute escolhe ficar com Noemi",
+    "video": "videos/2026-11-16-rute-e-noemi.mp4"
+  },
+  {
+    "data": "2026-11-17",
+    "livro": "Livro de Mórmon",
+    "referencia": "Mosias 24",
+    "tema": "O Senhor torna leves os fardos do povo de Alma",
+    "video": "videos/2026-11-17-fardos-leves.mp4"
+  },
+  {
+    "data": "2026-11-17",
+    "livro": "Bíblia",
+    "referencia": "Marcos 10",
+    "tema": "O cego Bartimeu",
+    "video": "videos/2026-11-17-cego-bartimeu.mp4"
+  },
+  {
+    "data": "2026-11-18",
+    "livro": "Livro de Mórmon",
+    "referencia": "Alma 32",
+    "tema": "Alma ensina os pobres zoramitas sobre a semente da fé",
+    "video": "videos/2026-11-18-semente-da-fe.mp4"
+  },
+  {
+    "data": "2026-11-18",
+    "livro": "Bíblia",
+    "referencia": "1 Samuel 1",
+    "tema": "A oração de Ana e o nascimento de Samuel",
+    "video": "videos/2026-11-18-ana-ora.mp4"
+  },
+  {
+    "data": "2026-11-19",
+    "livro": "Livro de Mórmon",
+    "referencia": "Alma 19",
+    "tema": "Abis reúne o povo quando o rei Lamôni, a rainha e Amon caem pelo Espírito",
+    "video": "videos/2026-11-19-abis.mp4"
+  },
+  {
+    "data": "2026-11-19",
+    "livro": "Bíblia",
+    "referencia": "2 Reis 5",
+    "tema": "Naamã é curado da lepra ao se lavar sete vezes no Jordão",
+    "video": "videos/2026-11-19-naama.mp4"
+  },
+  {
+    "data": "2026-11-20",
+    "livro": "Livro de Mórmon",
+    "referencia": "Alma 15",
+    "tema": "Zeezrom é curado ao declarar fé no poder de Cristo",
+    "video": "videos/2026-11-20-zeezrom.mp4"
+  },
+  {
+    "data": "2026-11-20",
+    "livro": "Bíblia",
+    "referencia": "Atos 16",
+    "tema": "Paulo e Silas cantam na prisão e o carcereiro de Filipos se converte",
+    "video": "videos/2026-11-20-paulo-e-silas.mp4"
+  }
 ]

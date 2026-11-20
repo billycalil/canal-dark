@@ -1,0 +1,17 @@
+{
+  "titulo_video": "Presos e feridos à meia-noite… eles começaram a cantar 🎶 #shorts",
+  "descricao": "Em Filipos, Paulo e Silas oravam e cantavam na prisão quando um terremoto abriu as portas, e o carcereiro acabou batizado com sua família. A história está em Atos 16, na Bíblia.\n\nO que você faz nas suas noites mais difíceis? Comente! 👇\n\n#Biblia #HistoriasDaBiblia #HistoriasDeFe #FeCrista #Shorts",
+  "tags": ["Bíblia", "Atos 16", "Paulo e Silas", "carcereiro de Filipos", "Novo Testamento", "louvor", "fé cristã"],
+  "referencia": "Atos 16",
+  "segmentos": [
+    {"texto": "Acorrentados num calabouço à meia-noite… eles escolheram cantar.", "cena": "noite", "gancho": true},
+    {"texto": "Em Filipos, Paulo e Silas foram açoitados com varas e lançados na prisão.", "cena": "cidade"},
+    {"texto": "Na cela mais escura, com os pés presos no tronco, oravam e cantavam hinos a Deus.", "cena": "oracao"},
+    {"texto": "De repente, um grande terremoto sacudiu a prisão: as portas se abriram e as correntes caíram.", "cena": "arco_quebrado"},
+    {"texto": "O carcereiro acordou, viu as portas abertas e, desesperado, puxou a espada.", "cena": "fogo"},
+    {"texto": "Paulo gritou que não se fizesse mal, pois todos ainda estavam ali.", "cena": "luz"},
+    {"texto": "Tremendo, ele perguntou o que fazer para ser salvo: “Crê no Senhor Jesus”.", "cena": "aurora"},
+    {"texto": "Naquela mesma noite, lavou as feridas deles e foi batizado com toda a sua casa.", "cena": "mar"}
+  ],
+  "aplicacao": "Até na noite mais escura, a fé que canta pode abrir portas."
+}
