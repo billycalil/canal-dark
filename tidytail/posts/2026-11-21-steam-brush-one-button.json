@@ -1,0 +1,15 @@
+{
+  "produto": "tidytail-steam-brush-3-in-1-shedding-fur-refresh",
+  "post": {"img": 8, "headline": "No more picking fur out of the brush", "sub": "Steam Brush 3-in-1 · one-button release"},
+  "reel": {
+    "slides": [
+      {"img": 1, "text": "Stop picking fur out of your brush"},
+      {"img": 6, "text": "A fine mist traps loose hair as you brush"},
+      {"img": 4, "text": "Soft pins lift dead undercoat, no pulling"},
+      {"img": 8, "text": "One button pushes the fur right off"},
+      {"img": 6, "text": "Clean brush in a second"}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 8
+  }
+}
