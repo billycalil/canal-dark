@@ -1,0 +1,19 @@
+{
+  "produto": "tidytail-deshedding-glove",
+  "post": {
+    "img": 1,
+    "headline": "The stocking stuffer dog lovers actually use",
+    "sub": "Deshedding Glove · under $15"
+  },
+  "reel": {
+    "slides": [
+      {"img": 1, "text": "Stuck on a gift for a dog lover?"},
+      {"img": 3, "text": "This glove turns petting into grooming"},
+      {"img": 4, "text": "Loose fur comes off while you cuddle"},
+      {"img": 5, "text": "Soft tips, gentle on sensitive skin"},
+      {"img": 1, "text": "Under $15. Free US shipping."}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 1
+  }
+}
