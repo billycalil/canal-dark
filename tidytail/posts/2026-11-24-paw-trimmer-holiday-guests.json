@@ -1,0 +1,19 @@
+{
+  "produto": "tidytail-led-paw-trimmer-quiet-cordless-waterproof",
+  "post": {
+    "img": 8,
+    "headline": "Holiday guests coming? Skip the groomer.",
+    "sub": "LED Paw Trimmer · tidy paws in minutes"
+  },
+  "reel": {
+    "slides": [
+      {"img": 8, "text": "POV: guests arrive and the paws are fluffy"},
+      {"img": 3, "text": "No groomer appointment needed"},
+      {"img": 8, "text": "LED light shows every hair between toes"},
+      {"img": 4, "text": "Rounded blade for paws, ears and face"},
+      {"img": 3, "text": "Rinse under the tap. Done in minutes."}
+    ],
+    "cta": "Tap the link in bio",
+    "end_img": 3
+  }
+}
