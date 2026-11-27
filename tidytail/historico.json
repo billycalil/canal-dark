@@ -1,134 +1,146 @@
 [
- {
-  "data": "2026-11-05",
-  "produto": "tidytail-steam-brush-3-in-1-shedding-fur-refresh",
-  "angulo": "queda de pelo no sofá",
-  "arquivo": "posts/2026-11-05-steam-brush"
- },
- {
-  "data": "2026-11-06",
-  "produto": "tidytail-calming-lick-mat-with-suction-cups",
-  "angulo": "distração na hora do banho/corte de unhas",
-  "arquivo": "posts/2026-11-06-lick-mat"
- },
- {
-  "data": "2026-11-07",
-  "produto": "tidytail-2-in-1-walk-bottle-water-treats",
-  "angulo": "passeio sem bolsa extra (água + petisco)",
-  "arquivo": "posts/2026-11-07-walk-bottle"
- },
- {
-  "data": "2026-11-08",
-  "produto": "tidytail-comfort-walk-harness-leash-set-small-dogs",
-  "angulo": "passeio confortável, sem puxar o pescoço (pressão no peito)",
-  "arquivo": "posts/2026-11-08-harness"
- },
- {
-  "data": "2026-11-09",
-  "produto": "tidytail-deshedding-glove",
-  "angulo": "carinho que já tira o pelo solto (gentil na pele sensível)",
-  "arquivo": "posts/2026-11-09-deshedding-glove"
- },
- {
-  "data": "2026-11-10",
-  "produto": "tidytail-led-paw-trimmer-quiet-cordless-waterproof",
-  "angulo": "aparar pelo das patas em casa sem ir ao groomer (motor silencioso + LED)",
-  "arquivo": "posts/2026-11-10-paw-trimmer"
- },
- {
-  "data": "2026-11-11",
-  "produto": "tidytail-grooming-kit-trimmer-steam-brush-glove",
-  "angulo": "kit completo de grooming em casa + economia (save over $19)",
-  "arquivo": "posts/2026-11-11-grooming-kit"
- },
- {
-  "data": "2026-11-12",
-  "produto": "tidytail-steam-brush-3-in-1-shedding-fur-refresh",
-  "angulo": "pelo sem nós e refrescado entre banhos (pinos macios que não puxam)",
-  "arquivo": "posts/2026-11-12-steam-brush-refresh"
- },
- {
-  "data": "2026-11-13",
-  "produto": "tidytail-calming-lick-mat-with-suction-cups",
-  "angulo": "cachorro que come rápido demais (lamber desacelera a refeição)",
-  "arquivo": "posts/2026-11-13-lick-mat-slow-eater"
- },
- {
-  "data": "2026-11-14",
-  "produto": "tidytail-2-in-1-walk-bottle-water-treats",
-  "angulo": "road trip / trilha (cabe no porta-copos, botão de uma mão, sem vazar)",
-  "arquivo": "posts/2026-11-14-walk-bottle-road-trip"
- },
- {
-  "data": "2026-11-15",
-  "produto": "tidytail-comfort-walk-harness-leash-set-small-dogs",
-  "angulo": "presente para o cachorro pequeno (set peitoral macio + guia combinando)",
-  "arquivo": "posts/2026-11-15-harness-gift-set"
- },
- {
-  "data": "2026-11-16",
-  "produto": "tidytail-deshedding-glove",
-  "angulo": "casa com cachorro e gato: uma luva para todo tipo de pelo (curto, longo, cacheado; seca ou molhada)",
-  "arquivo": "posts/2026-11-16-deshedding-glove-multi-pet"
- },
- {
-  "data": "2026-11-17",
-  "produto": "tidytail-led-paw-trimmer-quiet-cordless-waterproof",
-  "angulo": "cachorro ansioso com medo do barulho da máquina (motor ultra-silencioso)",
-  "arquivo": "posts/2026-11-17-paw-trimmer-anxious-pup"
- },
- {
-  "data": "2026-11-18",
-  "produto": "tidytail-grooming-kit-trimmer-steam-brush-glove",
-  "angulo": "presente de fim de ano para quem tem cachorro (kit 3 ferramentas, save over $19)",
-  "arquivo": "posts/2026-11-18-grooming-kit-gift"
- },
- {
-  "data": "2026-11-19",
-  "produto": "tidytail-calming-lick-mat-with-suction-cups",
-  "angulo": "noites de tempestade / trovão (distração feliz que acalma)",
-  "arquivo": "posts/2026-11-19-lick-mat-stormy-nights"
- },
- {
-  "data": "2026-11-20",
-  "produto": "tidytail-2-in-1-walk-bottle-water-treats",
-  "angulo": "cachorro com sede no meio do passeio / dog park (chega de levar garrafa E bolsinha de petisco)",
-  "arquivo": "posts/2026-11-20-walk-bottle-dog-park"
- },
- {
-  "data": "2026-11-21",
-  "produto": "tidytail-steam-brush-3-in-1-shedding-fur-refresh",
-  "angulo": "chega de tirar pelo da escova com a mão (botão que solta o pelo num segundo + névoa que prende o pelo)",
-  "arquivo": "posts/2026-11-21-steam-brush-one-button"
- },
- {
-  "data": "2026-11-22",
-  "produto": "tidytail-comfort-walk-harness-leash-set-small-dogs",
-  "angulo": "conforto em passeios longos (colete acolchoado e respirável + pressão uniforme no peito)",
-  "arquivo": "posts/2026-11-22-harness-long-walks"
- },
- {
-  "data": "2026-11-23",
-  "produto": "tidytail-deshedding-glove",
-  "angulo": "lembrancinha de Natal / stocking stuffer abaixo de US$15 para quem tem cachorro (carinho que já tira o pelo solto)",
-  "arquivo": "posts/2026-11-23-deshedding-glove-stocking-stuffer"
- },
- {
-  "data": "2026-11-24",
-  "produto": "tidytail-led-paw-trimmer-quiet-cordless-waterproof",
-  "angulo": "visitas de fim de ano / Thanksgiving chegando: arrumar as patinhas em casa em minutos, sem agendar groomer",
-  "arquivo": "posts/2026-11-24-paw-trimmer-holiday-guests"
- },
- {
-  "data": "2026-11-25",
-  "produto": "tidytail-grooming-kit-trimmer-steam-brush-glove",
-  "angulo": "comparação: parar de comprar ferramenta por ferramenta; kit cobre patas, pelagem e queda de pelo (save over $19)",
-  "arquivo": "posts/2026-11-25-grooming-kit-full-routine"
- },
- {
-  "data": "2026-11-26",
-  "produto": "tidytail-calming-lick-mat-with-suction-cups",
-  "angulo": "cachorro que devora a comida em segundos (lamber desacelera quem come rápido); dia de Thanksgiving",
-  "arquivo": "posts/2026-11-26-lick-mat-fast-eaters"
- }
+  {
+    "data": "2026-11-05",
+    "produto": "tidytail-steam-brush-3-in-1-shedding-fur-refresh",
+    "angulo": "queda de pelo no sofá",
+    "arquivo": "posts/2026-11-05-steam-brush"
+  },
+  {
+    "data": "2026-11-06",
+    "produto": "tidytail-calming-lick-mat-with-suction-cups",
+    "angulo": "distração na hora do banho/corte de unhas",
+    "arquivo": "posts/2026-11-06-lick-mat"
+  },
+  {
+    "data": "2026-11-07",
+    "produto": "tidytail-2-in-1-walk-bottle-water-treats",
+    "angulo": "passeio sem bolsa extra (água + petisco)",
+    "arquivo": "posts/2026-11-07-walk-bottle"
+  },
+  {
+    "data": "2026-11-08",
+    "produto": "tidytail-comfort-walk-harness-leash-set-small-dogs",
+    "angulo": "passeio confortável, sem puxar o pescoço (pressão no peito)",
+    "arquivo": "posts/2026-11-08-harness"
+  },
+  {
+    "data": "2026-11-09",
+    "produto": "tidytail-deshedding-glove",
+    "angulo": "carinho que já tira o pelo solto (gentil na pele sensível)",
+    "arquivo": "posts/2026-11-09-deshedding-glove"
+  },
+  {
+    "data": "2026-11-10",
+    "produto": "tidytail-led-paw-trimmer-quiet-cordless-waterproof",
+    "angulo": "aparar pelo das patas em casa sem ir ao groomer (motor silencioso + LED)",
+    "arquivo": "posts/2026-11-10-paw-trimmer"
+  },
+  {
+    "data": "2026-11-11",
+    "produto": "tidytail-grooming-kit-trimmer-steam-brush-glove",
+    "angulo": "kit completo de grooming em casa + economia (save over $19)",
+    "arquivo": "posts/2026-11-11-grooming-kit"
+  },
+  {
+    "data": "2026-11-12",
+    "produto": "tidytail-steam-brush-3-in-1-shedding-fur-refresh",
+    "angulo": "pelo sem nós e refrescado entre banhos (pinos macios que não puxam)",
+    "arquivo": "posts/2026-11-12-steam-brush-refresh"
+  },
+  {
+    "data": "2026-11-13",
+    "produto": "tidytail-calming-lick-mat-with-suction-cups",
+    "angulo": "cachorro que come rápido demais (lamber desacelera a refeição)",
+    "arquivo": "posts/2026-11-13-lick-mat-slow-eater"
+  },
+  {
+    "data": "2026-11-14",
+    "produto": "tidytail-2-in-1-walk-bottle-water-treats",
+    "angulo": "road trip / trilha (cabe no porta-copos, botão de uma mão, sem vazar)",
+    "arquivo": "posts/2026-11-14-walk-bottle-road-trip"
+  },
+  {
+    "data": "2026-11-15",
+    "produto": "tidytail-comfort-walk-harness-leash-set-small-dogs",
+    "angulo": "presente para o cachorro pequeno (set peitoral macio + guia combinando)",
+    "arquivo": "posts/2026-11-15-harness-gift-set"
+  },
+  {
+    "data": "2026-11-16",
+    "produto": "tidytail-deshedding-glove",
+    "angulo": "casa com cachorro e gato: uma luva para todo tipo de pelo (curto, longo, cacheado; seca ou molhada)",
+    "arquivo": "posts/2026-11-16-deshedding-glove-multi-pet"
+  },
+  {
+    "data": "2026-11-17",
+    "produto": "tidytail-led-paw-trimmer-quiet-cordless-waterproof",
+    "angulo": "cachorro ansioso com medo do barulho da máquina (motor ultra-silencioso)",
+    "arquivo": "posts/2026-11-17-paw-trimmer-anxious-pup"
+  },
+  {
+    "data": "2026-11-18",
+    "produto": "tidytail-grooming-kit-trimmer-steam-brush-glove",
+    "angulo": "presente de fim de ano para quem tem cachorro (kit 3 ferramentas, save over $19)",
+    "arquivo": "posts/2026-11-18-grooming-kit-gift"
+  },
+  {
+    "data": "2026-11-19",
+    "produto": "tidytail-calming-lick-mat-with-suction-cups",
+    "angulo": "noites de tempestade / trovão (distração feliz que acalma)",
+    "arquivo": "posts/2026-11-19-lick-mat-stormy-nights"
+  },
+  {
+    "data": "2026-11-20",
+    "produto": "tidytail-2-in-1-walk-bottle-water-treats",
+    "angulo": "cachorro com sede no meio do passeio / dog park (chega de levar garrafa E bolsinha de petisco)",
+    "arquivo": "posts/2026-11-20-walk-bottle-dog-park"
+  },
+  {
+    "data": "2026-11-21",
+    "produto": "tidytail-steam-brush-3-in-1-shedding-fur-refresh",
+    "angulo": "chega de tirar pelo da escova com a mão (botão que solta o pelo num segundo + névoa que prende o pelo)",
+    "arquivo": "posts/2026-11-21-steam-brush-one-button"
+  },
+  {
+    "data": "2026-11-22",
+    "produto": "tidytail-comfort-walk-harness-leash-set-small-dogs",
+    "angulo": "conforto em passeios longos (colete acolchoado e respirável + pressão uniforme no peito)",
+    "arquivo": "posts/2026-11-22-harness-long-walks"
+  },
+  {
+    "data": "2026-11-23",
+    "produto": "tidytail-deshedding-glove",
+    "angulo": "lembrancinha de Natal / stocking stuffer abaixo de US$15 para quem tem cachorro (carinho que já tira o pelo solto)",
+    "arquivo": "posts/2026-11-23-deshedding-glove-stocking-stuffer"
+  },
+  {
+    "data": "2026-11-24",
+    "produto": "tidytail-led-paw-trimmer-quiet-cordless-waterproof",
+    "angulo": "visitas de fim de ano / Thanksgiving chegando: arrumar as patinhas em casa em minutos, sem agendar groomer",
+    "arquivo": "posts/2026-11-24-paw-trimmer-holiday-guests"
+  },
+  {
+    "data": "2026-11-25",
+    "produto": "tidytail-grooming-kit-trimmer-steam-brush-glove",
+    "angulo": "comparação: parar de comprar ferramenta por ferramenta; kit cobre patas, pelagem e queda de pelo (save over $19)",
+    "arquivo": "posts/2026-11-25-grooming-kit-full-routine"
+  },
+  {
+    "data": "2026-11-26",
+    "produto": "tidytail-calming-lick-mat-with-suction-cups",
+    "angulo": "cachorro que devora a comida em segundos (lamber desacelera quem come rápido); dia de Thanksgiving",
+    "arquivo": "posts/2026-11-26-lick-mat-fast-eaters"
+  },
+  {
+    "data": "2026-11-27",
+    "produto": "tidytail-2-in-1-walk-bottle-water-treats",
+    "angulo": "presente de fim de ano (Black Friday) para o amigo que passeia com cachorro: garrafa 2-em-1 água + petisco, menos de US$25",
+    "arquivo": "posts/2026-11-27-walk-bottle-gift-dog-walker",
+    "pinterest": {
+      "quadro": "Dog Grooming Kits & Tools (sugerido; nenhuma pasta de passeio existe)",
+      "link": "https://brj70t-ck.myshopify.com/products/tidytail-2-in-1-walk-bottle-water-treats",
+      "publicado": false,
+      "obs": "Chrome e computador do Billy não conectados nesta execução; conteúdo enviado para postagem manual"
+    }
+  }
 ]
